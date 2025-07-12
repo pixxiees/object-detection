@@ -1,0 +1,4 @@
+[console_scripts]
+simple_publisher = my_demo_nodes_py.simple_publisher:main
+simple_subscriber = my_demo_nodes_py.simple_subscriber:main
+
